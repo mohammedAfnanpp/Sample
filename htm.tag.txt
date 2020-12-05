@@ -1,0 +1,16 @@
+<html>
+<head><title>USES OF TAGS</title> </head>
+<body bgcolor="blue"><b><i><center>
+<h1 color="black">MES kvm college valanchery</h1></b></i></center>
+The various departments are<br>
+<ol>
+<li>zoology
+<li>chemistry
+<li>physics
+<li>BCA
+<li>B.com
+<li>psychology
+<li>English
+</ol></P>
+<h2 color="red"><b><i><u>BCA Department</u><b><i><p>The college is Affiliated to university of calicut with NACC A grade</P></body></html>
+

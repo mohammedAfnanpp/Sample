@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Personal Details</title>
+</head>
+<body>
+<form><fieldset style="width:350px">
+<table>
+<fieldset style="width:350px">
+<legend>personal:</legend>
+Name:
+<input type="text" placeholder=Name><br><br>
+Email:
+<input type="text"placeholder=name@gmail.com><br><br>
+DOB:
+<input type="date"placeholder="mm/dd/yyy"
+<fieldset>
+<tr>
+<td>Hobbies:</td>
+<td><input type="checkbox" name="hobby"value="singing">singing</td>
+<td><input type="checkbox" name="hobby"value="reading">Reading</td>
+</tr>
+<tr>
+<td>State:</td>
+<td><select>
+<option value="kerala">kerala</option>
+<option value="">Tamilnadu</option>
+<option value="">Goa</option>
+<option value="">UP</option>
+<option value="">MH</option>
+</Select>
+</td>
+</tr>
+<tr>
+<td><input type="submit" name="submit" value="submit"></td>
+<td><input type="Reset"name="reset"></td>
+</tr>
+</table>
+</fieldset>
+</form>
+</body>
+</html>
+
+
