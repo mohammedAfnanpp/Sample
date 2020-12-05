@@ -1,0 +1,31 @@
+<html>
+<body><table width="200" border="1">
+<tr>
+  <td colspan="3" align="center">HTML TABLE </td>
+  <td bgcolor="0066cc" align="center">A</td>
+  <td bgcolor="00FF99" align="center">B</td>
+</tr>
+<tr>
+  <td rowspan="3"bgcolor="#FFFF66" align="center">C</td>
+  <td bgcolor="#FF00FF"align="center">D</td>
+  <td bgcolor="#FF0000"align="center">E</td>
+  <td bgcolor="#CCCC00"align="center">F</td>
+  <td bgcolor="#003300"align="center">G</td>
+</tr>
+<tr>
+   <td bgcolor="#335633" align="center">H</td>
+   <td colspan="2" bgcolor="#999999" align="center">I</td>
+   <td rowspan="2"bgcolor="#FF99CC" align="center">J</td>
+</tr>
+<tr>
+   <td bgcolor="#FF3366" align="center">K</td>
+   <td bgcolor="#FF6600" align="center">L</td>
+   <td bgcolor="#FF0099" align="center">M</td>
+</tr>
+<tr>
+   <td bgcolor="#FFHH00" align="center">N</td>
+   <td colspan="6" bgcolor="#ccoooo" align="center">O</td>
+</tr>
+</table>
+</body>
+</html>
